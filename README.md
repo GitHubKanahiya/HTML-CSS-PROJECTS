@@ -1,5 +1,13 @@
 
 Razorpay Clone
+
+How to use
+Clone the repository to your local machine or download the source code.
+Open the terminal and install npm -> "npm install".
+Now run "npm start" on terminal.
+Now site is live.
+Contact
+If you have any questions or suggestions regarding this project, please feel free to contact Email - Chourasiakanahiya92@gmail.com.
 This project is a simple clone of the Razorpay payment gateway interface built using HTML, CSS, and Tailwind CSS.
 
 Description
